@@ -3,7 +3,7 @@
  Sou padawan em Desenvolvimento Front-end e pretendo me tornar Fullstack :computer:</h5> 
 
 <p align="center">
-<img src=https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif alt="Animação"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 </p>
 
 
