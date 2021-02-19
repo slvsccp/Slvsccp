@@ -1,14 +1,31 @@
-<h3 align="center"> Hello there, eu sou o Matheus! :laughing:</h3>
-<h5 align="center"> Resolvedor de problemas amadores, curioso e apaixonado por código. <br/> 
- Sou padawan em Desenvolvimento Front-end e pretendo me tornar Fullstack :computer:</h5> 
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Ola! I am <a href="https://github.com/slvsccp">Matheus Silva</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+</h1>
 
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-</p>
+#### 📬 Find me at
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusperfil/)](https://www.linkedin.com/in/matheusperfil/)
 
 
- <p align="justify"> :rocket:  &nbsp; Estou em transição de carreira :) Cursando faculdade de Análise e desenvolvimento de sistemas enquanto trabalho em projetos :moneybag:
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end 
- <br/> :sos: &nbsp; Preciso de um pouquinho de ajuda com flexbox e JavaScript 
- <br/> :computer: &nbsp; Minha stack: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS
- <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries & filmes! Quando não estou estudando, estou in game :) </p>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### Languages
+
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/ruchpeanuts?tab=repositories&q=&type=&language=java)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
+![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchpeanuts&theme=default&line_height=27&layout=compact" />
