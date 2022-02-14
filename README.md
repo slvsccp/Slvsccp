@@ -4,11 +4,13 @@
  <!--
   <img src="https://komarev.com/ghpvc/?username=slvsccp&color=green" alt="slvsccp" /> -->
 
+<!---
 <div>
   <a href="https://github.com/slvsccp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slvsccp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvsccp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ --->
 
 
 <!--
