@@ -1,5 +1,5 @@
-<h2> <!---<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">--->Ola! I'm <a href="https://github.com/slvsccp">Matheus</a>
-</h2>
+<!---<h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">Ola! I'm <a href="https://github.com/slvsccp">Matheus</a>
+</h2>--->
 
  <!--
   <img src="https://komarev.com/ghpvc/?username=slvsccp&color=green" alt="slvsccp" /> -->
@@ -19,14 +19,14 @@
 
 Here are some ideas to get you started: -->
 
-<div style="display: inline_block"><br>
+<!--- <div style="display: inline_block"><br>
   <img align="center" alt="slvsccp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="slvsccp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="slvsccp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="slvsccp-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="slvsccp-SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-</div>
+</div> --->
   
   ##
   
@@ -35,4 +35,3 @@ Here are some ideas to get you started: -->
 </div>
   
   
-<h4>Here are some ideas to get you started:</h4>
